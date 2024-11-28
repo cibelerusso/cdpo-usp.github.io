@@ -1,0 +1,150 @@
+---
+layout: post
+title: "Conteúdo"
+date:  2024-11-22 15:30:00 -0300
+categories: Novidade
+author: [ elias, cibele ]
+pin: true
+---
+
+<p style='text-align: justify;text-justify: inter-word;'>
+Neste <i>post</i> falaremos sobre o conteúdo do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.<br><br>
+
+Nosso curso possui dois módulos de estatística e dois de otimização, com conteúdos que fundamentam a aplicação da teoria em Pesquisa Operacional e Ciência de Dados. Cada um dos módulos possui duração de duas semanas e terá carga de 15 horas (metade de aulas, metade de atividades).<br><br>
+
+Abaixo você pode encontrar os programas de cada um dos módulos.
+</p>
+
+## 1. Estatística
+
+### 1.1. Estatística para Ciência de Dados
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    <ul>
+        <li>
+            Análise Exploratória de Dados
+            <ul>
+                <li>Tipos de dados, medidas descritivas de tendência central: média, mediana e moda, medidas de dispersão: variância, desvio padrão, amplitude e intervalo interquartil</li>
+                <li>Visualização de dados</li>
+                <li>Associação de variáveis</li>
+            </ul>
+        </li>
+        <li>
+            Probabilidades
+            <ul>
+                <li>Conceitos básicos</li> 
+                <li>Distribuições discretas: Bernoulli, binomial e Poisson</li> 
+                <li>Distribuições contínuas: uniforme, normal, exponencial e t de Student</li>
+                <li>Teorema do Limite Central</li>
+            </ul>
+        </li>
+        <li>
+            Inferência estatística
+            <ul>
+                <li>Estimação pontual e intervalar</li>
+                <li>Testes de hipóteses: conceitos e aplicações</li>
+            </ul>
+        </li> 
+    </ul>
+</p>
+
+### 1.2. Métodos Estatísticos Aplicados
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    <ul>
+        <li>
+            Métodos Não Paramétricos
+            <ul>
+                <li>Teste Qui-quadrado para associação de variáveis</li>
+                <li>Testes de Shapiro-Wilk, Wilcoxon, Mann-Whitney e Kruskal-Wallis</li>
+                <li>Aplicações em ciência de dados</li>
+            </ul>
+        </li>
+        <li>
+            Modelagem estatística
+            <ul>
+                <li>Regressão linear simples e múltipla</li>
+                <li>Avaliação de modelos</li>
+                <li>Análise de diagnóstico</li>
+                <li>Modelo de regressão logística</li>
+            </ul>
+        </li>
+        <li>Inferência Bayesiana</li>
+    </ul>
+</p>
+
+## 2. Otimização
+
+### 2.1. Otimização Contínua
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    <ul>
+        <li>
+            Fundamentos de Otimização
+            <ul>
+            <li>Conceitos básicos de otimização: função objetivo, conjunto viável, restrições, maximização, minimização</li>
+            <li>Otimizador global, otimizador local</li>
+            </ul>
+        </li>
+        <li>Reconhecendo problemas de otimização</li>
+        <li>
+            Otimização Linear
+            <ul>
+                <li>O problema de otimização linear</li>
+                <li>A forma padrão, variáveis de folga e variáveis artificiais</li>
+                <li>Bibliotecas computacionais</li>
+            </ul>
+        </li>
+        <li>
+            Otimização Não-Linear
+            <ul>
+                <li>O problema de otimização não-linear</li>
+                <li>Exemplos</li>
+                <li>Casos especiais: otimização quadrática e otimização convexa</li>
+                <li>Máxima descida, gradientes conjugados, Nesterov</li>
+                <li>Bibliotecas computacionais</li>
+            </ul>
+        </li>
+        <li>
+            Aplicações em Aprendizado de Máquina e Pesquisa Operacional
+            <ul>
+                <li>Support Vector Machines</li>
+                <li>Aprendizado Profundo</li>
+                <li>Problema da mistura</li>
+                <li>Problema do fluxo máximo</li>
+            </ul>
+        </li>
+    </ul>
+</p>
+
+### 2.2. Otimização Discreta
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    <ul>
+        <li>
+            Otimização Linear Inteira
+            <ul>
+                <li>O problema de otimização linear binária e inteira</li>
+                <li>Método de Branch and Bound</li>
+                <li>Bibliotecas computacionais</li>
+                <li>Alternando entre <i>solvers</i></li>
+            </ul>
+        </li>
+        <li>
+            Otimização Não-Linear Inteira
+            <ul>
+                <li>O problema de otimização não-linear binária e inteira</li>
+                <li>Metaheurísticas</li>
+            </ul>
+        </li>
+        <li>
+            Aplicações em Aprendizado de Máquina e Pesquisa Operacional
+            <ul>
+                <li>O problema do caixeiro viajante</li>
+                <li>O problema de timetabling</li>
+                <li>Agrupamento por k-means</li>
+                <li>Otimização multiobjetivo</li>
+            </ul>
+        </li>
+    </ul>
+</p>

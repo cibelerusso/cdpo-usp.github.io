@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Apresentando o Curso"
+date:  2024-11-22 15:00:00 -0300
+categories: Novidade
+author: [ elias, cibele ]
+pin: true
+---
+
+<p style='text-align: justify;text-justify: inter-word;'>
+Neste post sobre o curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>, falaremos em linhas gerais sobre os temas que estudaremos e as aplicações a que o curso se direciona.<br><br>
+
+
+Duas disciplinas fundamentarão o conteúdo do curso: estatística e otimização. A seleção e a apresentação dos temas específicos de estatística e otimização que serão abordados é feita com duas aplicações em mente: ciência de dados e pesquisa operacional.<br><br>
+
+Estatística e otimização são duas disciplinas fundamentais em aplicações diversas, muitas vezes em conjunto. Duas das aplicações mais social e economicamente importantes destas disciplinas são, justamente, ciência de dados e pesquisa operacional. É notável que estas aplicações complementam-se, pois a interpretação eficiente dos dados de grandes operações pode levar a ganhos consideráveis, assim como compreender as técnicas de pesquisa operacional pode ser útil ao planejar operações baseadas em análise dos dados.<br><br>
+
+Com a ampliação da procura no mercado por profissionais com habilidades para ambas as aplicações, notamos que a grande maioria dos profissionais à busca de mais capacitação para atuar em setores que dependam da grande intersecção entre CD e PO se beneficiaria de um curso nos moldes do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.
+</p>
+
+## 1. Fundamentos
+
+<p style='text-align: justify;text-justify: inter-word;'>
+</p>
+
+### 1.1. Estatística
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A Estatística é a ciência que se dedica à coleta, organização, análise, interpretação e apresentação de dados. Ela permite extrair e compreender informações relevantes dos dados a partir de amostras representativas de populações maiores, assim como avaliar a significância de padrões utilizando técnicas inferenciais.<br><br>
+
+    A visualização e exploração de dados é uma etapa fundamental para extrair as primeiras informações a partir de dados observados. É conhecida como a pedra fundamental da análise de dados, e pode fornecer as primeiras evidências empíricas sobre padrões existentes em conjuntos de dados. A inferência estatística por sua vez, fundamentada na teoria das probabilidades, fornece o ferramental teórico de estimação e testes de hipóteses para avaliar a significância estatística dos resultados amostrais observados. <br><br>
+
+    Os métodos estatísticos aplicados contemplam, por exemplo, testes não-paramétricos e a modelagem estatística e preditiva. Modelos lineares e modelos lineares generalizados, com especial destaque ao modelo de regressão logística, aliados a ferramentas para avaliação da performance dos modelos e análises de diagnóstico, contemplam um importante repertório que serve como base para a modelagem estatística, com aplicação nas mais diversas áreas em que os dados são observados.
+</p>
+
+
+### 1.2. Otimização
+
+<p style='text-align: justify;text-justify: inter-word;'>
+Otimização Matemática é um ramo da matemática aplicada que se dedica a aprimorar decisões com base em um objetivo e tendo em mente restrições às quais se sujeitam nossas decisões. Tanto o objetivo como as restrições são modelados matematicamente e isso permite o uso de técnicas matemático-computacionais para a tomada de decisão.<br><br>
+
+Muitas tecnologias modernas não seriam possíveis sem técnicas de otimização. Além disso, a maioria das operações econômicas de grande porte depende de forma central de técnicas de otimização e diversas aplicações de computação científica demandam métodos de otimização eficientes.<br><br>
+
+É comum dividirmos o estudo de otimização matemática em otimização contínua e otimização discreta, pois as técnicas numéricas usadas em cada caso são fundamentalmente distintas. No nosso curso, seguiremos essa abordagem, de modo que você sairá com uma boa fundamentação para começar a resolver uma ampla gama de problemas práticos de otimização.
+</p>
+
+## 2. Aplicações
+
+### 2.1. Ciência de Dados
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A Ciência de Dados é uma área interdisciplinar que combina metodologias, tecnologias e ferramentas de diversas áreas como a estatística, otimização, matemática, computação e inteligência artificial, para analisar, modelar e interpretar dados gerados nas mais diversas áreas de conhecimento.<br><br>
+
+    Ela se destaca pela sua versatilidade de integrar metodologias teóricas e práticas para solucionar problemas e auxiliar na tomada de decisão em áreas como a engenharia, saúde, indústria, economia, ciências sociais, biologia, educação e tecnologia.<br><br>
+
+    Motivada e alavancada pela enorme quantidade de dados gerados na atualidade, com o avanço da tecnologia e interconectividade das atividades pessoais, a ciência de dados contribui de forma significativa para a formação complementar de profissionais nas mais diversas áreas de conhecimento e para o avanço científico, industrial e empresarial.
+</p>
+
+### 2.2. Pesquisa Operacional
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A Pesquisa Operacional é uma área interdisciplinar que combina metodologias, tecnologias e ferramentas de diversas áreas como a estatística, otimização, matemática, computação e inteligência artificial, para auxiliar na tomada de decisões em operações de forma a obter destas o melhor desempenho científico, industrial e empresarial.<br><br>
+
+    Se o parágrafo acima pareceu-lhe familiar, não é à toa. A Pesquisa Operacional compartilha muitas ferramentas com a Ciência de Dados. Mais que isso, os beneficiários de boas práticas em Ciência de Dados frequentemente são os mesmos do que os que se beneficiariam de boas práticas em Pesquisa Operacional.<br><br>
+
+    Assim, como a CD, a PO também "se destaca pela sua versatilidade de integrar metodologias teóricas e práticas para solucionar problemas e auxiliar na tomada de decisão em áreas como a engenharia, saúde, indústria, economia, ciências sociais, biologia, educação e tecnologia". Entretanto, no caso da Pesquisa Operacional, muito mais provavelmente estaremos lidando com operações físicas, tais como a entrega de encomendas de <i>e-commerce</i>, a escolha da localização de armazéns, etc.<br><br>
+</p>

@@ -1,0 +1,95 @@
+---
+layout: post
+title: "Inscrições e Bolsas"
+date:  2024-11-22 15:20:00 -0300
+categories: Novidade
+author: [ elias, cibele ]
+pin: true
+---
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.<br><br>
+
+    Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
+</p>
+
+## 1. O Sistema Apolo
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As infomações sobre o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontram-se no Sistema Apolo, no link a seguir:<br>
+    <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
+
+    As inscrições deverão ser feitas entre os dias 1/12/2024 e 28/02/2025 através do link abaixo. Após clicar no link, escolha <strong>Instituto de Ciências Matemáticas e de Computação (São Carlos)</strong> no menu e navegue na tabela até o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.<br>
+    <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W' target="_blank">Clique para abrir o site de inscrição</a>
+</p>
+
+## 2. Valores e Formas de Pagamento
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    Para participar do processo de seleção, deve ser paga uma taxa de inscrição de R$50,00. Os inscritos que forem selecionados precisam pagar uma taxa de matrícula de R$129,00 para manifestar interesse no curso. A partir daí, serão três mensalidades de R$387,00. Em resumo, os valores desembolsados serão:
+        <ul>
+            <li>Valor da inscrição: R$ 50,00</li>
+            <li>Valor da matrícula: R$ 129,00</li>
+            <li>Valor do curso: R$ 1.161,00 (3x R$387,00)</li>
+        </ul>
+</p>
+<p style='text-align: justify;text-justify: inter-word;'>
+    Os pagamentos podem ser realizados por crédito na conta informada abaixo (pix e depósito), por boleto (precisaremos de nome completo, endereço completo, CPF, RG, email) e por cartão de crédito (número e demais dados do cartão informados manualmente via email).
+</p>
+
+### 2.1. Conta para Pagamentos
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    <ul>
+        <li>Banco: 104 (Caixa Econômica Federal)</li>
+        <li>Agência: 0348</li>
+        <li>Conta corrente: 5660-7</li>        <li>Chave pix: 1847d12f-056f-41d9-acf5-4d1f3ee02ee0</li>
+        <li>
+            QRCode:
+            <div style='text-align: center'>
+                <img src="{{site.url}}/images/QRcode.png" 
+                    alt="QRcode" 
+                    style="width: 5cm;">
+            </div> 
+        </li>
+        <li>Titular: Fipai</li>
+        <li>Nome da cobrança: FIPAI CURSO AT ESTATISTIC</li>
+    </ul>
+</p>
+
+## 3. Bolsas
+
+<p style='text-align: justify;text-justify: inter-word;'>
+Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalidades, a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso. A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+</p>
+
+### 3.1. Critérios para Classificação
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    Os critérios a seguir, avaliados pela coordenação do curso a partir da documentação fornecida (veja abaixo), serão levados em consideração na concessão da bolsa:
+    <ol>
+        <li>Situação financeira e socioeconômica</li>
+        <li>Mérito técnico, científico e acadêmico</li>
+    </ol>
+    Para avaliação socioeconômica, serão analisados os seguintes documentos:
+    <ul>
+        <li>Holerite ou outros comprovantes de renda do Grupo Familiar</li>
+        <li>Certidão de nascimento dos menores de 21 anos do Grupo Familiar</li>
+        <li>Comprovante de aluguel ou de prestação de financiamento de moradia</li>
+        <li>Declaração de Imposto de Renda com recibo de entrega ou declaração de isenção</li>
+        <li>Comprovante de gastos com despesas médicas contínuas de membros do Grupo Familiar</li>
+    </ul>
+
+    Para avaliação do mérito, a documentação de inscrição será levada em conta.<br><br>
+
+    Em caso de empate, levar-se-ão em conta os critérios da política de isenção de 24/04/2020 da Congregação ICMC.
+</p>
+
+### 3.2. Solicitação da Bolsa
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A solicitação de bolsa deve ser feita até dia 31/12/2024 através do preenchimento do formulário que pode ser encontrado abaixo:<br>
+    <a href='https://forms.gle/4wiu7Vc9aFya8h6U9' target=_blank>Formulário para solicitação de bolsas</a><br><br>
+</p>
+
+> **Nota:** O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
