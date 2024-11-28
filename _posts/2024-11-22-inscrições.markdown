@@ -67,8 +67,10 @@ pin: true
 ## 3. Bolsas
 
 <p style='text-align: justify;text-justify: inter-word;'>
-Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalidades, a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso. A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalidades, a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso.
 </p>
+> A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+{: .prompt-warning}
 
 ### 3.1. Critérios para Classificação
 
