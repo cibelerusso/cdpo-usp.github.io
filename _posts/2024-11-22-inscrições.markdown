@@ -2,16 +2,20 @@
 layout: post
 title: "Inscrições e Bolsas"
 date:  2024-11-22 15:20:00 -0300
-categories: Novidade
+categories: [ Informações ]
 author: [ elias, cibele ]
 pin: true
 ---
 
 <p style='text-align: justify;text-justify: inter-word;'>
-    Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.<br><br>
-
-    Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
+    Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.
 </p>
+> O prazo para solicitação de bolsa é menor do que o prazo total para inscrições.
+{: .prompt-warning}
+> Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
+{: .prompt-warning}
+> O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
+{: .prompt-danger}
 
 ## 1. O Sistema Apolo
 
@@ -39,23 +43,26 @@ pin: true
 
 ### 2.1. Conta para Pagamentos
 
-<p style='text-align: justify;text-justify: inter-word;'>
+<div style='width: 100%;'>
+<p style='text-align: justify;text-justify: inter-word; width: 100%;'>
     <ul>
         <li>Banco: 104 (Caixa Econômica Federal)</li>
         <li>Agência: 0348</li>
-        <li>Conta corrente: 5660-7</li>        <li>Chave pix: 1847d12f-056f-41d9-acf5-4d1f3ee02ee0</li>
+        <li>Conta corrente: 5660-7</li>
+        <li>Chave pix: 1847d12f-056f-41d9-acf5-4d1f3ee02ee0</li>
         <li>
             QRCode:
-            <div style='text-align: center'>
+            <div style='text-align: center; width: 100%;'>
                 <img src="{{site.url}}/images/QRcode.png" 
                     alt="QRcode" 
-                    style="width: 40%;">
+                    style="width: 50%;">
             </div> 
         </li>
         <li>Titular: Fipai</li>
         <li>Nome da cobrança: FIPAI CURSO AT ESTATISTIC</li>
     </ul>
 </p>
+</div>
 
 ## 3. Bolsas
 
@@ -89,7 +96,5 @@ Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalida
 
 <p style='text-align: justify;text-justify: inter-word;'>
     A solicitação de bolsa deve ser feita até dia 31/12/2024 através do preenchimento do formulário que pode ser encontrado abaixo:<br>
-    <a href='https://forms.gle/4wiu7Vc9aFya8h6U9' target=_blank>Formulário para solicitação de bolsas</a><br><br>
+    <a href='https://forms.gle/4wiu7Vc9aFya8h6U9' target='_blank'>Formulário para solicitação de bolsas</a><br><br>
 </p>
-
-> **Nota:** O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.

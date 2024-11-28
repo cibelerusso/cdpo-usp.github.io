@@ -2,7 +2,7 @@
 layout: post
 title: "Conteúdo"
 date:  2024-11-22 15:30:00 -0300
-categories: Novidade
+categories: [ Curso ]
 author: [ elias, cibele ]
 pin: true
 ---
