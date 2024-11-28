@@ -12,7 +12,7 @@ layout: home
 
 <div style='float: left; width: 100%; margin-bottom: 2em; margin-top: 2em;'>
     <div style='float: left; width: 25%; margin-right: 2em; aspect-ratio: 1/1;'>
-        <img src='{{site.url}}/images/curso.png' style='width:100%; float: left; border-radius:3%; margin-right: 1em; aspect-ratio: 1/1;'>
+        <img src='{{site.url}}/images/curso.png' style='width:100%; float: left; border-radius:3%; margin-right: 1em; aspect-ratio: 1/1;' alt='Divulgação Curso CDPO'>
     </div>
     <div style='text-align: justify;text-justify: inter-word; padding-top: 0; padding-left: 2em;'>
         Esta é a página do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Veja mais abaixo no nosso <i>blog</i>, diversos <i>posts</i> com mais informações sobre o curso, incluindo conteúdo, docentes, valores e mais.<br><br>
