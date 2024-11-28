@@ -5,7 +5,12 @@
 layout: home
 ---
 
-<div style='float: left; width: 100%; margin-bottom: 2em;'>
+# Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
+<!-- ## para Ciência de Dados e Pesquisa Operacional -->
+
+<!-- <br><br> -->
+
+<div style='float: left; width: 100%; margin-bottom: 2em; margin-top: 2em;'>
     <div style='float: left; width: 25%; margin-right: 2em; aspect-ratio: 1/1;'>
         <img src='{{site.url}}/images/curso.png' style='width:100%; float: left; border-radius:3%; margin-right: 1em; aspect-ratio: 1/1;'>
     </div>
