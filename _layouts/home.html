@@ -5,6 +5,8 @@ refactor: true
 
 {% include lang.html %}
 
+{{ content }}
+
 {% assign all_pinned = site.posts | where: 'pin', 'true' %}
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
@@ -47,7 +49,6 @@ refactor: true
   {% endfor %}
 {% endif %}
 
-{{ content }}
 <div id="post-list" class="flex-grow-1 px-xl-1" style="clear: both">
 
   {% for post in posts %}
