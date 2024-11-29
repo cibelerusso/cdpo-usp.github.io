@@ -3,13 +3,10 @@ layout: post
 title: "Apresentando os Professores"
 date:  2024-11-22 15:10:00 -0300
 categories: [ Pessoas, Curso ]
-author: [ elias, cibele ]
+authors: [ elias, cibele ]
 pin: true
+description: Neste <i>post</i> apresentamos os professores que ministrarão as disciplinas do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Ambos são docentes do <a href='https://www.icmc.usp.br' target="_blank">ICMC-USP</a>.
 ---
-
-<p style='text-align: justify;text-justify: inter-word;'>
-    Neste <i>post</i> apresentamos os professores que ministrarão as disciplinas do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Ambos são docentes do <a href='https://www.icmc.usp.br' target="_blank">ICMC-USP</a>.
-</p><br>
 
 ## Cibele Maria Russo Novelli
 <div>

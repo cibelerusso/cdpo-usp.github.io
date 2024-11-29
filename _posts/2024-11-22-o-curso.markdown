@@ -3,13 +3,12 @@ layout: post
 title: "Apresentando o Curso"
 date:  2024-11-22 15:00:00 -0300
 categories: [ Curso, Informações ]
-author: [ elias, cibele ]
+authors: [ elias, cibele ]
 pin: true
+description: Neste <i>post</i> sobre o curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>, falaremos em linhas gerais sobre os temas que estudaremos e as aplicações a que o curso se direciona.
 ---
 
 <p style='text-align: justify;text-justify: inter-word;'>
-Neste post sobre o curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>, falaremos em linhas gerais sobre os temas que estudaremos e as aplicações a que o curso se direciona.<br><br>
-
 Duas disciplinas fundamentarão o conteúdo do curso: estatística e otimização. A seleção e a apresentação dos temas específicos de estatística e otimização que serão abordados são feitas com duas aplicações em mente: ciência de dados e pesquisa operacional.<br><br>
 
 Estatística e otimização são duas disciplinas fundamentais em aplicações diversas, muitas vezes em conjunto. Duas das aplicações mais social e economicamente importantes destas disciplinas são, justamente, ciência de dados e pesquisa operacional. É notável que estas aplicações complementam-se, pois a interpretação eficiente dos dados de grandes operações pode levar a ganhos consideráveis, assim como compreender as técnicas de pesquisa operacional pode ser útil ao planejar operações baseadas em análise dos dados.<br><br>

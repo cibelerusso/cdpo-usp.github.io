@@ -3,13 +3,12 @@ layout: post
 title: "Conteúdo"
 date:  2024-11-22 15:30:00 -0300
 categories: [ Curso ]
-author: [ elias, cibele ]
+authors: [ elias, cibele ]
 pin: true
+description: Neste <i>post</i> falaremos sobre o conteúdo do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.
 ---
 
 <p style='text-align: justify;text-justify: inter-word;'>
-Neste <i>post</i> falaremos sobre o conteúdo do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.<br><br>
-
 Nosso curso possui dois módulos de estatística e dois de otimização, com conteúdos que fundamentam a aplicação da teoria em Pesquisa Operacional e Ciência de Dados. Cada um dos módulos possui duração de duas semanas e terá carga de 15 horas (metade de aulas, metade de atividades).<br><br>
 
 Abaixo você pode encontrar os programas de cada um dos módulos.
