@@ -14,7 +14,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 {: .prompt-warning}
 > O prazo para solicitação de bolsa é menor do que o prazo total para inscrições.
 {: .prompt-warning}
-> A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$ 50,00.
+> A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$50,00.
 {: .prompt-warning}
 > O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
 {: .prompt-danger}
@@ -34,9 +34,9 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 <p style='text-align: justify;text-justify: inter-word;'>
     Para participar do processo de seleção, deve ser paga uma taxa de inscrição de R$50,00. Os inscritos que forem selecionados precisam pagar uma taxa de matrícula de R$129,00 para manifestar interesse no curso. A partir daí, serão três mensalidades de R$387,00. Em resumo, os valores desembolsados serão:
         <ul>
-            <li>Valor da inscrição: R$ 50,00</li>
-            <li>Valor da matrícula: R$ 129,00</li>
-            <li>Valor do curso: R$ 1.161,00 (3x R$387,00)</li>
+            <li>Valor da inscrição: R$50,00</li>
+            <li>Valor da matrícula: R$129,00</li>
+            <li>Valor do curso: R$1.161,00 (3x R$387,00)</li>
         </ul>
 </p>
 <p style='text-align: justify;text-justify: inter-word;'>
