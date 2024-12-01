@@ -8,6 +8,12 @@ pin: true
 description: Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.
 ---
 
+> **As inscrições estão abertas!**
+{: .prompt-info}
+
+> Não perca tempo, estamos recebendo muitas inscrições.
+{: .prompt-tip}
+
 ## Avisos Importantes
 
 > Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
@@ -25,9 +31,35 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
     A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As infomações sobre o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontram-se no Sistema Apolo, no link a seguir:<br>
     <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
 
-    As inscrições deverão ser feitas entre os dias 1/12/2024 e 28/02/2025 através do link abaixo. Após clicar no link, escolha <strong>Instituto de Ciências Matemáticas e de Computação (São Carlos)</strong> no menu e navegue na tabela até o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>.<br>
-    <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormCursosOferecidosListar?oriins=W' target="_blank">Clique para abrir o site de inscrição</a>
+    As inscrições deverão ser feitas entre os dias 1/12/2024 e 28/02/2025 através do link a seguir:<br>
+    <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=55&codcurceu=550300012&codedicurceu=24001&numseqofeedi=1&oriins=W' target="_blank">Clique para abrir o site de inscrição</a><br>    
+    Antes de clicar no link, é útil ler as instruções do sistema Apolo:<br>
+    <a href='https://uspdigital.usp.br/apolo/extInscricaoPublicaInstrucao.jsp?codmnu=1446'>Instruções do sistema Apolo para inscrições</a>
 </p>
+
+### 1.2. Documentação
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    Todos os documentos solicitados pelo sistema Apolo são obrigatórios, exceto o "Documento específico". Veja a lista completa dos documentos a seguir:
+    <ol>
+        <li>Documento de identificação: RG, Habilitação, RNE (ou protocolo), Passaporte, etc.</li>
+        <li>CPF (exceto para estrangeiros)</li>
+        <li>Diploma de graduação ou documento comprovando possível conclusão em 2024</li>
+        <li>Histórico escolar de graduação</li>
+        <li>Currículo</li>
+        <li>Comprovante de residência</li>
+        <li>Comprovante de pagamento da taxa de inscrição</li>
+        <li>Documento específico (opcional)</li>
+    </ol>
+</p>
+> Apresente todos os documentos o quanto antes, pois a inscrição não estará completa sem os documentos.
+{: .prompt-tip}
+
+> Você pode repetir documentos se o CPF constar no documento de identificação.
+{: .prompt-tip}
+
+> Para emissão do certificado será necessário apresentar diploma de graduação.
+{: .prompt-warning}
 
 ## 2. Valores e Formas de Pagamento
 
