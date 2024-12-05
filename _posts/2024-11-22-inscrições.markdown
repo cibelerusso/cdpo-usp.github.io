@@ -40,12 +40,12 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 ### 1.2. Documentação
 
 <p style='text-align: justify;text-justify: inter-word;'>
-    Todos os documentos solicitados pelo sistema Apolo são obrigatórios, exceto o "Documento específico". Este campo é opcional para o caso de você desejar incluir mais informações que achar relevantes. Veja a lista completa dos documentos a seguir:
+    Todos os documentos solicitados pelo sistema Apolo são obrigatórios, exceto o "Documento específico" e o "Histórico escolar de graduação". O documento específico é opcional para o caso de você desejar incluir mais informações que achar relevantes e o histórico serve para auxiliar na classificação e ajuda a conhecer melhor a formação das/dos alunas/alunos. Veja a lista completa dos documentos a seguir:
     <ol>
         <li>Documento de identificação: RG, Habilitação, RNE (ou protocolo), Passaporte, etc.</li>
         <li>CPF (exceto para estrangeiros)</li>
         <li>Diploma de graduação ou documento comprovando possível conclusão em 2024</li>
-        <li>Histórico escolar de graduação</li>
+        <li>Histórico escolar de graduação (opcional)</li>
         <li>Currículo</li>
         <li>Comprovante de residência</li>
         <li>Comprovante de pagamento da taxa de inscrição</li>
