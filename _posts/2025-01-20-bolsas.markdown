@@ -6,7 +6,7 @@ categories: [ bolsas ]
 authors: [ elias ]
 pin: true
 description: Neste <i>post</i> você encontra o resultado da classificação de bolsas.
-math: true
+math: false
 ---
 
 ## Classificação para Bolsas no Curso Estatística E Otimização para Ciência de Dados e Pesquisa Operacional
