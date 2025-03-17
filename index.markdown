@@ -8,10 +8,10 @@ layout: home
 # Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
 
 <br>
-> **As inscrições estão abertas!**
-{: .prompt-info}
+> **As inscrições estão encerradas!**
+{: .prompt-danger}
 
-> Não perca tempo, estamos recebendo muitas inscrições.
+> Um novo oferecimento do curso está sendo planejado para breve
 {: .prompt-tip}
 
 <div style='float: left; width: 100%; margin-bottom: 2em; margin-top: 2em;'>

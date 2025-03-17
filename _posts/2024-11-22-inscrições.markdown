@@ -8,22 +8,22 @@ pin: true
 description: Neste <i>post</i> você encontra as instruções sobre como se inscrever no curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Este é um curso pago, mas que prevê a concessão de bolsas sob a forma de isenção dos pagamentos.
 ---
 
-> **As inscrições estão abertas!**
-{: .prompt-info}
+> **As inscrições estão encerradas!**
+{: .prompt-danger}
 
-> Não perca tempo, estamos recebendo muitas inscrições.
+> Um novo oferecimento do curso está sendo planejado para breve
 {: .prompt-tip}
 
 ## Avisos Importantes
 
-> Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
+<!-- > Leia com atenção todas as informações da presente página antes de começar o processo de inscrição.
 {: .prompt-warning}
 > O prazo para solicitação de bolsa é menor do que o prazo total para inscrições.
 {: .prompt-warning}
 > A concessão da bolsa não isenta o pagamento da taxa de inscrição, no valor de R$50,00.
 {: .prompt-warning}
 > O(a) candidato(a) que se utilizar de fraude para obtenção de isenção terá sua matrícula cancelada.
-{: .prompt-danger}
+{: .prompt-danger} -->
 
 ## 1. O Sistema Apolo
 
