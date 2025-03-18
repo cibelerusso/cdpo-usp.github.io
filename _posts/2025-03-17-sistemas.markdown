@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Acesso ao Material do Curso"
+date:  2025-03-17 13:00:00 -0300
+categories: [ Informações ]
+authors: [ elias ]
+pin: true
+description: Neste <i>post</i> você encontra as instruções sobre como acessar o material didático do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. O acesso ao material é restrito às pessoas selecionadas e matriculadas no curso.
+---
+
+> **Alguns sistemas informatizados da USP estão enfrentando instabilidade no momento**
+{: .prompt-danger}
+
+> **Caso algum dos links abaixo esteja sendo afetado, consulte seu e-mail para obter o conteúdo**
+{: .prompt-danger}
+
+## 1. O Moodle para Cursos de Extensão
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A USP hospeda o sistema <a href='https://cursosextensao.usp.br/' target="_blank">Moodle Extensão</a> para permitir o oferecimento através da metodologia EAD. Neste sistema há ferramentas para disponibilização das mais variadas formas de conteúdo digital, bem como de atividades avaliativas e de fixação do conteúdo.
+    <br><br>
+    O acesso ao <a href='https://cursosextensao.usp.br/' target="_blank">Moodle Extensão</a> é exclusivo para quem tem número USP e, ao acessar o sistema, a página do <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> estará visível para as pessoas matriculadas no curso. Para acessar o sistema pela primeira vez, verifique na caixa de entrada do seu sistema de emails a mensagem com o código de convite que foi enviado a todas as pessoas inscritas e matriculadas no curso.
+    <blockquote class='prompt-danger'>
+        <strong>O compartilhamento do acesso com terceiros é proibido pelas regras de uso dos sistemas da USP de acordo com as <a href='https://www.sti.usp.br/legislacao/normas/' target="_blank">normas da STI</a></strong>
+    </blockquote>
+    <br>
+    O <a href='https://cursosextensao.usp.br/' target="_blank">Moodle Extensão</a> está enfrentando severos problemas de instabilidade no momento. Enquanto esses problemas não são sanados pela universidade, o conteúdo será disponibilizado por email.
+</p>
+
+## 2. A VPN USP
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A USP oferece um serviço de VPN (<em>Virtual Private Network</em>). VPNs são redes privadas de comunicação construídas sobre uma rede pública de comunicação (no caso, a internet), que permitem o acesso a recursos computacionais não acessíveis ao público em geral.
+    <br><br>
+    Nós recomendamos o uso da VPN USP para acessar os sistemas informatizados (tais como o <a href='https://uspdigital.usp.br/apolo/' target='_blank'>Apolo</a> e o <a href='https://cursosextensao.usp.br/' target='_blank'>Moodle Extensão</a>). Apesar do acesso a estes sistemas normalmente ser público, usando a VPN, você terá mais estabilidade e segurança.
+    <br><br>
+    A VPN da USP oferece acesso, além dos sistemas informatizados, a conteúdo assinado pela universidade, tais como bibliotecas virtuais e periódicos científicos. Aproveite sua participação no CDPO para ler artigos científicos e livros técnicos pertinentes ao curso.
+    <br><br>
+    Siga as instruções dos links correspondentes ao seu sistema operacional para configurar a VPN USP:
+    <ul>
+        <li>
+            <a href='https://atendimentosti.usp.br/otrs/public.pl?Action=PublicFAQZoom;ItemID=15' target='_blank'>Windows</a>
+        </li>
+        <li>
+            <a href='https://atendimentosti.usp.br/otrs/public.pl?Action=PublicFAQZoom;ItemID=25' target='_blank'>Linux</a>
+        </li>
+        <li>
+            <a href='https://atendimentosti.usp.br/otrs/public.pl?Action=PublicFAQZoom;ItemID=425' target='_blank'>Mac</a>
+        </li>
+    </ul>
+    <blockquote class='prompt-warning'>
+        <strong>Você precisa de um número USP para acessar a VPN USP</strong>
+    </blockquote>
+</p>
