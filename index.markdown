@@ -8,10 +8,7 @@ layout: home
 # Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
 
 <br>
-> **As inscrições estão encerradas!**
-{: .prompt-danger}
-
-> Um novo oferecimento do curso está sendo planejado para breve
+> A segunda edição tem início o das inscrições previsto para o dia 26 de junho de 2025
 {: .prompt-tip}
 
 <div style='float: left; width: 100%; margin-bottom: 2em; margin-top: 2em;'>
@@ -21,7 +18,7 @@ layout: home
     <div style='text-align: justify;text-justify: inter-word; padding-top: 0;'>
         Esta é a página do curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong>. Veja mais abaixo, no nosso <i>blog</i>, diversos <i>posts</i> com mais informações sobre o curso, incluindo conteúdo, docentes, valores e mais.<br><br>
 
-        O curso ocorrerá dentre os dias 15/03/2025 e 15/05/2025 de forma totalmente remota. São 60 horas de carga divididas em quatro módulos contendo aulas gravadas e atividades de aprendizado e avaliação.<br><br>
+        O curso ocorrerá dentre os dias 16/08/2025 e 16/10/2025 de forma totalmente remota. O curso está dividido em quatro módulos contendo aulas gravadas e atividades de aprendizado e avaliação.<br><br>
 
         Nosso público-alvo consiste em profissionais em busca de mais capacitação para atuar em setores que dependam da grande intersecção entre ciência de dados e pesquisa operacional. Se você possui este perfil, o curso de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> lhe oferecerá inúmeras oportunidades de aprimoramento.<br><br>
         
