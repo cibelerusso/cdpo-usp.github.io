@@ -23,10 +23,10 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 
 <p style='text-align: justify;text-justify: inter-word;'>
     A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As informações sobre o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontram-se no Sistema Apolo, no link a seguir:<br>
-    <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
+    <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=25002&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
 
     As inscrições deverão ser feitas entre os dias 30/06/2025 e 10/08/2025 através do link a seguir:<br>
-    <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=55&codcurceu=550300012&codedicurceu=24001&numseqofeedi=1&oriins=W' target="_blank">Clique para abrir o site de inscrição</a><br>    
+    <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=55&codcurceu=550300012&codedicurceu=25002&numseqofeedi=1&oriins=W' target="_blank">Clique para abrir o site de inscrição</a><br>    
     Antes de clicar no link, é útil ler as instruções do sistema Apolo:<br>
     <a href='https://uspdigital.usp.br/apolo/extInscricaoPublicaInstrucao.jsp?codmnu=1446'>Instruções do sistema Apolo para inscrições</a>
 </p>
