@@ -22,16 +22,13 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 ## 1. O Sistema Apolo
 
 <p style='text-align: justify;text-justify: inter-word;'>
-    A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As infomações sobre o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontrar-se-ão no Sistema Apolo, em link a ser divulgado oportunamente.
-    <!-- no link a seguir:<br>
-    <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br> -->
+    A USP criou o sistema <a href='https://uspdigital.usp.br/apolo/' target="_blank">Apolo</a> para centralizar as informações sobre atividades de extensão (por exemplo, cursos de atualização) oferecidas pela universidade. As informações sobre o curso  de atualização <strong>Estatística e Otimização para Ciência de Dados e Pesquisa Operacional</strong> também encontram-se no Sistema Apolo, no link a seguir:<br>
+    <a href='https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550300012&cod_edicao=24001&numseqofeedi=1' target="_blank">Mais informações sobre o curso</a><br><br>
 
-    <br><br>
-    As inscrições deverão ser feitas entre os dias 26/06/2025 e 10/08/2025. Links e mais instruções para inscrição serão divulgados oportunamente.
-    <!-- através do link a seguir:<br>
+    As inscrições deverão ser feitas entre os dias 30/06/2025 e 10/08/2025 através do link a seguir:<br>
     <a href='https://uspdigital.usp.br/apolo/inscricaoPublicaFormTurmaListar?codund=55&codcurceu=550300012&codedicurceu=24001&numseqofeedi=1&oriins=W' target="_blank">Clique para abrir o site de inscrição</a><br>    
     Antes de clicar no link, é útil ler as instruções do sistema Apolo:<br>
-    <a href='https://uspdigital.usp.br/apolo/extInscricaoPublicaInstrucao.jsp?codmnu=1446'>Instruções do sistema Apolo para inscrições</a> -->
+    <a href='https://uspdigital.usp.br/apolo/extInscricaoPublicaInstrucao.jsp?codmnu=1446'>Instruções do sistema Apolo para inscrições</a>
 </p>
 
 ### 1.2. Documentação
@@ -70,7 +67,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 </p>
 <p style='text-align: justify;text-justify: inter-word;'>
 
-    Os pagamentos podem ser realizados por crédito via pix em conta a ser informada oportunamente, ou por boleto (precisaremos de nome completo, endereço completo, CPF, RG, email).
+    Os pagamentos podem ser realizados por crédito via pix na conta abaixo, ou por boleto (precisaremos de nome completo, endereço completo, CPF, RG, email).
 </p>
 
 > O pagamento das parcelas deverá ser realizado via boleto. Somente inscrição, matrícula e valor total do curso poderão ser pagos via pix.
@@ -80,7 +77,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 {: .prompt-warning}
 
 
-<!-- ### 2.1. Conta para Pagamentos
+### 2.1. Conta para Pagamentos
 
 <div style='width: 100%;'>
 <p style='text-align: justify;text-justify: inter-word; width: 100%;'>
@@ -101,7 +98,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
         <li>Nome da cobrança: FIPAI CURSO AT ESTATISTIC</li>
     </ul>
 </p>
-</div> -->
+</div>
 
 ## 3. Bolsas
 
@@ -109,7 +106,14 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
     Serão concedidas bolsas, sob a forma de isenção da matrícula e das mensalidades, a pessoas em condição de vulnerabilidade socioeconômica, em quantidade equivalente a 10% das matrículas efetivadas, para o pagamento da matrícula e valor do curso.
 </p>
 
-### 3.1. Critérios para Classificação
+### 3.1. Solicitação da Bolsa
+
+<p style='text-align: justify;text-justify: inter-word;'>
+    A solicitação de bolsa deve ser feita até dia 20/07/2025 através do preenchimento do formulário que pode ser encontrado abaixo:<br>
+    <a href='https://forms.gle/oQ6K9zi48feDdXny5' target='_blank'>Formulário para solicitação de bolsas</a><br><br>
+</p>
+
+### 3.2. Critérios para Classificação
 
 <p style='text-align: justify;text-justify: inter-word;'>
     Os critérios a seguir, avaliados pela coordenação do curso a partir da documentação fornecida (veja abaixo), serão levados em consideração na concessão da bolsa:
@@ -128,13 +132,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 
     Para avaliação do mérito, a documentação de inscrição será levada em conta.<br><br>
 
+    A documentação será analisada pela coordenação do curso, e a classificação para a concessão das bolsas será divulgada por e-mail e em um post aqui no site do curso até 08/08/2025. O número de bolsas concedidas corresponderá a 10% do total de alunos matriculados, com um limite máximo de 45 bolsas.<br><br>
+
     Em caso de empate, levar-se-ão em conta os critérios da política de isenção de 24/04/2020 da Congregação ICMC.
-</p>
-
-### 3.2. Solicitação da Bolsa
-
-<p style='text-align: justify;text-justify: inter-word;'>
-    A solicitação de bolsa deve ser feita até dia 20/07/2025 através do preenchimento do formulário que será divulgado oportunamente.
-     <!-- pode ser encontrado abaixo:<br>
-    <a href='https://forms.gle/4wiu7Vc9aFya8h6U9' target='_blank'>Formulário para solicitação de bolsas</a><br><br> -->
 </p>
