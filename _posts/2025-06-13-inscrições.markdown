@@ -109,7 +109,7 @@ description: Neste <i>post</i> você encontra as instruções sobre como se insc
 ### 3.1. Solicitação da Bolsa
 
 <p style='text-align: justify;text-justify: inter-word;'>
-    A solicitação de bolsa deve ser feita até dia 20/07/2025 através do preenchimento do formulário que pode ser encontrado abaixo:<br>
+    A solicitação de bolsa deve ser feita até dia 27/07/2025 através do preenchimento do formulário que pode ser encontrado abaixo:<br>
     <a href='https://forms.gle/oQ6K9zi48feDdXny5' target='_blank'>Formulário para solicitação de bolsas</a><br><br>
 </p>
 
