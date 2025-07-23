@@ -8,8 +8,6 @@ layout: home
 # Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
 
 <br>
-> A segunda edição tem o início das inscrições previsto para o dia 26 de junho de 2025
-{: .prompt-tip}
 
 > A primeira edição teve procura muito alta, inscreva-se logo para não perder a segunda edição
 {: .prompt-tip}
