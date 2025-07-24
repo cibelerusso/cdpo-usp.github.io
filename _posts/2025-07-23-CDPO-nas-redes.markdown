@@ -18,6 +18,6 @@ Esta aula foi um _teaser_ que fizemos para a primeira edição, que ainda serve 
 
 ### 1.2. Vídeo de Divulgação
 
-Neste vídeo, a professora Cibele fala rapidamente sobre a egunda edição do curso.
+Neste vídeo, a professora Cibele fala rapidamente sobre a segunda edição do curso.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zRaVib2U1_g?si=vDeaWTJF75-TatZH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
