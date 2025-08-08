@@ -1,98 +1,56 @@
 ---
 layout: post
 title: "Classificação para Bolsas"
-date:  2025-01-20 16:00 -0300
-categories: [ bolsas ]
-authors: [ elias ]
+date: 2025-08-08 14:50:00
+categories: [bolsas]
+authors: [cibele, elias]
 pin: true
-description: Neste <i>post</i> você encontra o resultado da classificação de bolsas.
+description: "Neste <i>post</i> você encontra o resultado da classificação de bolsas."
 math: false
 ---
 
-## Classificação para Bolsas no Curso Estatística E Otimização para Ciência de Dados e Pesquisa Operacional
+## Classificação para Bolsas no Curso Estatística E Otimização para Ciência de Dados e Pesquisa Operacional 2a. edição
 
 
 <p style='text-align: justify;text-justify: inter-word;'>
-Recebemos 67 solicitações de bolsas entre os dias 01 e 31 de dezembro de 2024. A concessão da bolsa isenta o participante do pagamento da taxa de matrícula (R&dollar; 129,00) e do valor do curso (R&dollar; 1.161,00).<br><br>
+Recebemos 29 solicitações de bolsas entre os dias 01 e 27 de julho de 2025. A concessão da bolsa isenta o participante do pagamento da taxa de matrícula (R&dollar; 150,00) e do valor do curso (R&dollar; 1.200,00).<br><br>
 
-Das 67 solicitações recebidas, 24 não tiveram seus pedidos avaliados por não apresentarem documentação suficiente para a análise de sua inscrição no curso. Os demais 43 pedidos foram deferidos e seus documentos comprobatórios de situação financeira e socioeconômica e de mérito técnico, científico e acadêmico foram analisados pela coordenação do curso. O número de candidatos(as) contemplados será 10&percnt; do total de matriculados do curso, até o limite de 30 vagas. Ao ser convocado(a) para a matrícula, por e-mail, o(a) candidato(a) bolsista deverá confirmar seu interesse, também por e-mail (<a href='mailto:cdpo@icmc.usp.br'>cdpo@icmc.usp.br</a>) em até 48 horas, e, caso não confirme se interesse, outro(a) bolsista será convocado(a) para assumir a vaga. A convocação poderá ser feita até o dia 07/03/2025, uma semana após o prazo final de inscrições para o curso.<br><br>
+Os 29 pedidos foram deferidos e seus documentos comprobatórios de situação financeira e socioeconômica e de mérito técnico, científico e acadêmico foram analisados pela coordenação do curso. O número de candidatos(as) contemplados será 10&percnt; do total de matriculados do curso. Caso haja bolsas remanescentes, serão convocados outros candidatos, que não fizeram a solicitação no prazo correto, mas manifestaram interesse com a coordenação do curso, por ordem de manifestação. Ao ser convocado(a) para a matrícula, por e-mail, o(a) candidato(a) bolsista deverá confirmar seu interesse, também por e-mail (<a href='mailto:cdpo@icmc.usp.br'>cdpo@icmc.usp.br</a>) em até 48 horas, fazendo o envio de dois contratos, o Contrato de Prestação de Serviços educacionais e o Contrato de Concessão de bolsa. Caso não confirme se interesse, outro(a) bolsista será convocado(a) para assumir a vaga. A convocação poderá ser feita até o dia 15/08/2025, prazo em que se encerram as inscrições no curso.<br><br>
 
 Caso o(a) candidato(a) queira garantir a sua vaga no curso, mesmo que ainda não tenha sido contemplado(a) com a isenção, deverá proceder com o pagamento da matrícula e valor do curso. Na ocasião da concessão da bolsa, caso o(a) bolsista já tenha efetuado a sua matrícula no curso e/ou o pagamento do valor do curso, os valores pagos serão devolvidos. A taxa de inscrição no curso não será devolvida em hipótese alguma, uma vez que é destinada à análise da documentação do(a) candidato(a). A ordem de prioridade (classificação) com que serão concedidas as bolsas, a partir das iniciais do nome dos(as) candidatos(as) e sua data de nascimento, será apresentada a seguir.
 </p>
 
-### Solicitações Deferidas
+### Classificação para bolsas no curso CDPO
 
-| Iniciais   | Data de Nascimento   |   Classificação |
-|:-----------|:---------------------|----------------:|
-| MMS        | 01/12/1994           |               1 |
-| TRBDA      | 01/02/1988           |               2 |
-| LCDS       | 25/08/1994           |               3 |
-| RNBR       | 28/09/1971           |               4 |
-| TSEH       | 13/04/1997           |               5 |
-| BGP        | 07/11/1989           |               6 |
-| PAS        | 05/03/1993           |               7 |
-| RMDC       | 30/12/1985           |               8 |
-| ACPR       | 14/07/1984           |               9 |
-| SMS        | 22/03/1991           |              10 |
-| GFQT       | 26/05/1991           |              11 |
-| GMRDS      | 29/08/1994           |              12 |
-| DABG       | 29/11/1992           |              13 |
-| PDCR       | 20/06/1992           |              14 |
-| BK         | 17/04/1997           |              15 |
-| RLM        | 17/12/1984           |              16 |
-| RMF        | 13/06/1994           |              17 |
-| CCAG       | 11/04/1995           |              18 |
-| ACADS      | 12/08/2000           |              19 |
-| AKFC       | 31/01/1991           |              20 |
-| RRM        | 07/06/1985           |              21 |
-| BCDS       | 08/06/1995           |              22 |
-| LHT        | 06/09/1982           |              23 |
-| LGP        | 20/05/1988           |              24 |
-| CCSDA      | 24/12/1977           |              25 |
-| RR         | 13/05/1994           |              26 |
-| HLF        | 07/10/1998           |              27 |
-| TVRM       | 26/01/1981           |              28 |
-| DRG        | 28/01/1995           |              29 |
-| ISN        | 28/04/1996           |              30 |
-| JDLR       | 21/04/1992           |              31 |
-| ENAN       | 26/01/2002           |              32 |
-| CGP        | 31/10/1986           |              33 |
-| JMC        | 30/11/1992           |              34 |
-| RCJ        | 28/03/1998           |              35 |
-| MDBDS      | 19/01/1975           |              36 |
-| LMHH       | 16/08/1987           |              37 |
-| MAF        | 13/04/1994           |              38 |
-| MJM        | 20/01/1989           |              39 |
-| WPI        | 01/09/1994           |              40 |
-| MHA        | 22/09/1992           |              41 |
-| JGGP       | 12/07/1984           |              42 |
-| JDCHN      | 15/07/1993           |              43 |
+| Iniciais | Data de nascimento | Classificação |
+|----------|--------------------|---------------|
+| ITCF  | 18/03/2000 | 1  |
+| MPBS  | 13/11/1993 | 2  |
+| LAB   | 31/01/1976 | 3  |
+| GHMG  | 28/07/1999 | 4  |
+| GdSS  | 11/05/2000 | 5  |
+| FABdS | 12/11/2002 | 6  |
+| NCdLP | 06/06/1999 | 7  |
+| GSdS  | 30/12/2001 | 8  |
+| IMdJM | 07/12/1984 | 9  |
+| JVdSC | 22/07/1998 | 10 |
+| ADM   | 06/03/1988 | 11 |
+| XSQC  | 09/06/1993 | 12 |
+| PVJ   | 20/05/1996 | 13 |
+| TARF  | 19/08/1963 | 14 |
+| ECN   | 05/06/2003 | 15 |
+| WSS   | 24/02/1984 | 16 |
+| PANL  | 01/10/1996 | 17 |
+| RdCdC | 10/10/2002 | 18 |
+| FSC   | 04/06/1996 | 19 |
+| BFdS  | 01/06/1993 | 20 |
+| WAAdO | 18/05/1953 | 21 |
+| JJNP  | 04/11/1997 | 22 |
+| FFB   | 17/09/1984 | 23 |
+| MS    | 07/01/1998 | 24 |
+| BBS   | 05/12/1998 | 25 |
+| LAdS  | 09/05/1999 | 26 |
+| ES    | 01/02/1979 | 27 |
+| WVM   | 08/04/2004 | 28 |
+| SC    | 06/08/1951 | 29 |
 
-### Solicitações Indeferidas
-
-| Iniciais   | Data de Nascimento   | Motivo do indeferimento                   |
-|:-----------|:---------------------|:------------------------------------------|
-| AGDB       | 18/02/1990           | Sem pagamento da taxa de inscrição.       |
-| ADSL       | 12/04/1988           | Sem pagamento da taxa de inscrição.       |
-| CCSDR      | Não informada        | Sem pagamento da taxa de inscrição.       |
-| CDP        | Não informada        | Sem pagamento da taxa de inscrição.       |
-| DDSS       | 18/03/1995           | Sem pagamento da taxa de inscrição.       |
-| GPDVR      | Não informada        | Sem pagamento da taxa de inscrição.       |
-| GEADS      | 19/08/1992           | Sem pagamento da taxa de inscrição.       |
-| GLDR       | 24/09/2001           | Sem pagamento da taxa de inscrição.       |
-| JCDS       | 26/11/2001           | Não apresentou diploma de graduação.      |
-| KRS        | 11/07/1983           | Sem documentos anexados no Sistema Apolo. |
-| LAB        | 31/01/1976           | Sem pagamento da taxa de inscrição.       |
-| MR         | 07/11/1989           | Sem documentos anexados no Sistema Apolo. |
-| MKMG       | Não informada        | Sem pagamento da taxa de inscrição.       |
-| MGA        | Não informada        | Sem pagamento da taxa de inscrição.       |
-| NRG        | 17/05/1989           | Sem pagamento da taxa de inscrição.       |
-| PLSS       | Não informada        | Sem pagamento da taxa de inscrição.       |
-| GMP        | 25/11/2000           | Não apresentou diploma de graduação.      |
-| RVP        | 10/10/1985           | Sem pagamento da taxa de inscrição.       |
-| RJBDOB     | Não informada        | Sem pagamento da taxa de inscrição.       |
-| TLF        | 09/11/1988           | Sem pagamento da taxa de inscrição.       |
-| VAD        | Não informada        | Sem pagamento da taxa de inscrição.       |
-| VVPO       | 05/02/1998           | Sem pagamento da taxa de inscrição.       |
-| WCDS       | 19/08/1982           | Sem documentos anexados no Sistema Apolo. |
-| WGDO       | 23/11/1988           | Sem pagamento da taxa de inscrição.       |
