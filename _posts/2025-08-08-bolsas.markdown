@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Classificação para Bolsas"
-date: 2025-08-08 14:50:00
+date: 2025-08-08 16:17:00
 categories: [bolsas]
 authors: [cibele, elias]
 pin: true
@@ -11,47 +11,48 @@ math: false
 
 ## Classificação para Bolsas no Curso Estatística E Otimização para Ciência de Dados e Pesquisa Operacional 2a. edição
 
-
 <p style='text-align: justify;text-justify: inter-word;'>
 Recebemos 29 solicitações de bolsas entre os dias 01 e 27 de julho de 2025. A concessão da bolsa isenta o participante do pagamento da taxa de matrícula (R&dollar; 150,00) e do valor do curso (R&dollar; 1.200,00).<br><br>
 
-Os 29 pedidos foram deferidos e seus documentos comprobatórios de situação financeira e socioeconômica e de mérito técnico, científico e acadêmico foram analisados pela coordenação do curso. O número de candidatos(as) contemplados será 10&percnt; do total de matriculados do curso. Caso haja bolsas remanescentes, serão convocados outros candidatos, que não fizeram a solicitação no prazo correto, mas manifestaram interesse com a coordenação do curso, por ordem de manifestação. Ao ser convocado(a) para a matrícula, por e-mail, o(a) candidato(a) bolsista deverá confirmar seu interesse, também por e-mail (<a href='mailto:cdpo@icmc.usp.br'>cdpo@icmc.usp.br</a>) em até 48 horas, fazendo o envio de dois contratos, o Contrato de Prestação de Serviços educacionais e o Contrato de Concessão de bolsa. Caso não confirme se interesse, outro(a) bolsista será convocado(a) para assumir a vaga. A convocação poderá ser feita até o dia 15/08/2025, prazo em que se encerram as inscrições no curso.<br><br>
+Dos 29 pedidos, 26 foram deferidos e seus documentos comprobatórios de situação financeira e socioeconômica e de mérito técnico, científico e acadêmico foram analisados pela coordenação do curso. O número de candidatos(as) contemplados será 10&percnt; do total de matriculados do curso. Três solicitações foram indeferidas devido à falta de inserção de documentos no Sistema Apolo. Caso haja bolsas remanescentes, serão convocados outros candidatos, que não fizeram a solicitação no prazo correto, mas manifestaram interesse com a coordenação do curso, por ordem de manifestação. <br><br>
+
+Ao ser convocado(a) para a matrícula, por e-mail, o(a) candidato(a) bolsista deverá confirmar seu interesse, também por e-mail (<a href='mailto:cdpo@icmc.usp.br'>cdpo@icmc.usp.br</a>) em até 48 horas, fazendo o envio de dois contratos, o Contrato de Prestação de Serviços educacionais e o Contrato de Concessão de bolsa. Caso não confirme se interesse, outro(a) bolsista será convocado(a) para assumir a vaga. A convocação poderá ser feita até o dia 15/08/2025, prazo em que se encerram as inscrições no curso.<br><br>
 
 Caso o(a) candidato(a) queira garantir a sua vaga no curso, mesmo que ainda não tenha sido contemplado(a) com a isenção, deverá proceder com o pagamento da matrícula e valor do curso. Na ocasião da concessão da bolsa, caso o(a) bolsista já tenha efetuado a sua matrícula no curso e/ou o pagamento do valor do curso, os valores pagos serão devolvidos. A taxa de inscrição no curso não será devolvida em hipótese alguma, uma vez que é destinada à análise da documentação do(a) candidato(a). A ordem de prioridade (classificação) com que serão concedidas as bolsas, a partir das iniciais do nome dos(as) candidatos(as) e sua data de nascimento, será apresentada a seguir.
 </p>
 
 ### Classificação para bolsas no curso CDPO
-
 | Iniciais | Data de nascimento | Classificação |
 |----------|--------------------|---------------|
-| ITCF  | 18/03/2000 | 1  |
-| MPBS  | 13/11/1993 | 2  |
-| LAB   | 31/01/1976 | 3  |
-| GHMG  | 28/07/1999 | 4  |
-| GdSS  | 11/05/2000 | 5  |
-| FABdS | 12/11/2002 | 6  |
-| NCdLP | 06/06/1999 | 7  |
-| GSdS  | 30/12/2001 | 8  |
-| IMdJM | 07/12/1984 | 9  |
-| JVdSC | 22/07/1998 | 10 |
-| ADM   | 06/03/1988 | 11 |
-| XSQC  | 09/06/1993 | 12 |
-| PVJ   | 20/05/1996 | 13 |
-| TARF  | 19/08/1963 | 14 |
-| ECN   | 05/06/2003 | 15 |
-| WSS   | 24/02/1984 | 16 |
-| PANL  | 01/10/1996 | 17 |
-| RdCdC | 10/10/2002 | 18 |
-| FSC   | 04/06/1996 | 19 |
-| BFdS  | 01/06/1993 | 20 |
-| WAAdO | 18/05/1953 | 21 |
-| JJNP  | 04/11/1997 | 22 |
-| FFB   | 17/09/1984 | 23 |
-| MS    | 07/01/1998 | 24 |
-| BBS   | 05/12/1998 | 25 |
-| LAdS  | 09/05/1999 | 26 |
-| ES    | 01/02/1979 | 27 |
-| WVM   | 08/04/2004 | 28 |
-| SC    | 06/08/1951 | 29 |
+| ITCF   | 18/03/2000 | 1 |
+| MPBS   | 13/11/1993 | 2 |
+| LAB    | 31/01/1976 | 3 |
+| GHMG   | 28/07/1999 | 4 |
+| GdSS   | 11/05/2000 | 5 |
+| NCdLP  | 06/06/1999 | 6 |
+| GSdS   | 30/12/2001 | 7 |
+| IMdJM  | 07/12/1984 | 8 |
+| JVdSC  | 22/07/1998 | 9 |
+| XSQC   | 09/06/1993 | 10 |
+| TARF   | 19/08/1963 | 11 |
+| ECN    | 05/06/2003 | 12 |
+| WSS    | 24/02/1984 | 13 |
+| PANL   | 01/10/1996 | 14 |
+| RdCdC  | 10/10/2002 | 15 |
+| FSC    | 04/06/1996 | 16 |
+| BFdS   | 01/06/1993 | 17 |
+| WAAdO  | 18/05/1953 | 18 |
+| JJNP   | 04/11/1997 | 19 |
+| FFB    | 17/09/1984 | 20 |
+| MS     | 07/01/1998 | 21 |
+| BBS    | 05/12/1998 | 22 |
+| LAdS   | 09/05/1999 | 23 |
+| ES     | 01/02/1979 | 24 |
+| WVM    | 08/04/2004 | 25 |
+| SC     | 06/08/1951 | 26 |
+| FABdS  | 12/11/2002 | Indeferido, por não ter inserido documentos no Sistema Apolo |
+| ADM    | 06/03/1988 | Indeferido, por não ter inserido documentos no Sistema Apolo |
+| PVJ    | 20/05/1996 | Indeferido, por não ter inserido documentos no Sistema Apolo |
+
 
 
